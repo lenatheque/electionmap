@@ -15,8 +15,8 @@ var makePolitician = function(name, partyColor) {
 
 // set up the details for each candidate //
 
-var candidate1 = makePolitician("Jane Doe", [132,17,11]);
-var candidate2 = makePolitician("Jill Buck", [15,11,132]);
+var candidate1 = makePolitician("Donald Trump", [132,17,11]);
+var candidate2 = makePolitician("Joe Biden", [15,11,132]);
 
 candidate1.electionResults = [5, 1, 7, 2, 33, 6, 4, 2, 1, 14, 8, 3, 1, 11, 11, 0, 5, 3, 3, 3, 7, 4, 8, 9, 3, 7, 2, 2, 4, 2, 8, 3, 15, 15, 2, 12, 0, 4, 13, 1, 3, 2, 8, 21, 3, 2, 11, 1, 3, 7, 2];
 
